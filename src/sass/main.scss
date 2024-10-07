@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+html {
+  font-size: 62.5%; }
+
+.header--container {
+  height: 25rem;
+  width: 100%;
+  background-image: linear-gradient(#004aad, #69f8ff, #ffffff); }
+
+.header--title {
+  font-size: 4rem;
+  color: gray;
+  padding-top: 10rem;
+  padding-left: 3rem;
+}  
+
+.nav--container {
+  display: flex;
+  justify-content: space-around;
+}
+
+.nav--links {
+  font-size: 1.9rem;
+  text-decoration: none;
+  color: gray;
+  margin-bottom: 5rem;
+}
+
+.home--title {
+  font-size: 3rem;
+  color: gray;
+  margin: 0 auto 5rem auto;
+  text-align: center;
+  width: 80%;
+  padding-bottom: 3rem;
+  border-bottom: solid gray;
+}
+
+footer {
+  margin: auto;
+  text-align: center;
+  font-size: 1.6rem;
+}

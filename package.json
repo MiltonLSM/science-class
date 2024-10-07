@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node-sass src/sass/main.scss src/css/style.css -w"
   },
   "author": "Milton Silva",
   "license": "ISC",
